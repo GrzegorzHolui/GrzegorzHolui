@@ -3,7 +3,6 @@
 I'm a self-taught developer specialized in Java.
 #### Contact
 
-
 [![enter image description here](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/grzegorz-ho%C5%82uj-535533240)
 
 ## Technologies I use
